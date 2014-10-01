@@ -4,10 +4,10 @@ Add a button to GitHub's Gist so you can quickly open your Gists to [jsFiddle](h
 
 In order for your Gist to work with jsFiddle, you need to create the following files:
 
-- fiddle.html
-- fiddle.css
-- fiddle.js
-- fiddle.manifest
+- `fiddle.html`
+- `fiddle.css`
+- `fiddle.js`
+- `fiddle.manifest`
 
 For more info on those file, please refer to the official jsFiddle [documentation](http://doc.jsfiddle.net/use/gist_read.html);
 
