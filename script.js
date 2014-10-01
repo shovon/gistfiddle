@@ -1,6 +1,6 @@
 /*
-    GistFiddle Chrome extension that adds a button to GitHub's gist so you can
-    quickly open your gists to JSFiddle
+    GistFiddle adds a button to GitHub's gist so you can quickly open your gists
+    to JSFiddle
     Copyright (C) 2014  Salehen Shovon Rahman
 
     This program is free software: you can redistribute it and/or modify
