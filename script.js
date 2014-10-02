@@ -30,7 +30,7 @@ function addFiddleButton() {
     $button.addClass('minibutton jsfiddle');
     $button.attr('href', 'http://jsfiddle.net/gh/gist/library/pure/' + id + '/');
     $button.attr('target', '_blank');
-    $button.html('JSFiddle');
+    $button.html('<span class="icon-jsfiddle octicon"></span> jsFiddle');
 
     $li.append($button);
     $('.pagehead-actions').append($li);
